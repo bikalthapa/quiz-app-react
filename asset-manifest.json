@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5eb16a4.css",
-    "main.js": "/static/js/main.692df444.js",
-    "static/media/background_music.mp3": "/static/media/background_music.06648203c2b69c170e83.mp3",
-    "static/media/history.jpg": "/static/media/history.ed8fae34694e57be3295.jpg",
-    "static/media/science_background.jpg": "/static/media/science_background.1aeda1d2a8207726fda1.jpg",
-    "static/media/correct_answer.mp3": "/static/media/correct_answer.f31ed105652cb5a8839b.mp3",
-    "static/media/wrong_answer.mp3": "/static/media/wrong_answer.44e8eaaeb2228a34e23a.mp3",
-    "static/media/computer_background.jpg": "/static/media/computer_background.853487148c152f66307f.jpg",
-    "static/media/user_logo.png": "/static/media/user_logo.c206c0f40beb382a9d8e.png",
-    "static/media/world.jpg": "/static/media/world.cbe6cb0f19db291977bb.jpg",
-    "static/media/settings.svg": "/static/media/settings.d87c345220fc76dab39615a790caa481.svg",
-    "index.html": "/index.html",
-    "static/media/pencil.svg": "/static/media/pencil.67bf3968e0a0dca65f5fe70a37d00573.svg",
-    "static/media/person_join.svg": "/static/media/person_join.29231834da2014776bc623aac60c2e02.svg",
-    "static/media/plus.svg": "/static/media/plus.92c7b7a5e12f8c1db3157181b2b46c63.svg",
-    "main.d5eb16a4.css.map": "/static/css/main.d5eb16a4.css.map",
-    "main.692df444.js.map": "/static/js/main.692df444.js.map"
+    "main.css": "/quiz-app-react/static/css/main.d5eb16a4.css",
+    "main.js": "/quiz-app-react/static/js/main.8797d7a6.js",
+    "static/media/background_music.mp3": "/quiz-app-react/static/media/background_music.06648203c2b69c170e83.mp3",
+    "static/media/history.jpg": "/quiz-app-react/static/media/history.ed8fae34694e57be3295.jpg",
+    "static/media/science_background.jpg": "/quiz-app-react/static/media/science_background.1aeda1d2a8207726fda1.jpg",
+    "static/media/correct_answer.mp3": "/quiz-app-react/static/media/correct_answer.f31ed105652cb5a8839b.mp3",
+    "static/media/wrong_answer.mp3": "/quiz-app-react/static/media/wrong_answer.44e8eaaeb2228a34e23a.mp3",
+    "static/media/computer_background.jpg": "/quiz-app-react/static/media/computer_background.853487148c152f66307f.jpg",
+    "static/media/user_logo.png": "/quiz-app-react/static/media/user_logo.c206c0f40beb382a9d8e.png",
+    "static/media/world.jpg": "/quiz-app-react/static/media/world.cbe6cb0f19db291977bb.jpg",
+    "static/media/settings.svg": "/quiz-app-react/static/media/settings.d87c345220fc76dab39615a790caa481.svg",
+    "index.html": "/quiz-app-react/index.html",
+    "static/media/pencil.svg": "/quiz-app-react/static/media/pencil.67bf3968e0a0dca65f5fe70a37d00573.svg",
+    "static/media/person_join.svg": "/quiz-app-react/static/media/person_join.29231834da2014776bc623aac60c2e02.svg",
+    "static/media/plus.svg": "/quiz-app-react/static/media/plus.92c7b7a5e12f8c1db3157181b2b46c63.svg",
+    "main.d5eb16a4.css.map": "/quiz-app-react/static/css/main.d5eb16a4.css.map",
+    "main.8797d7a6.js.map": "/quiz-app-react/static/js/main.8797d7a6.js.map"
   },
   "entrypoints": [
     "static/css/main.d5eb16a4.css",
-    "static/js/main.692df444.js"
+    "static/js/main.8797d7a6.js"
   ]
 }
